@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llordly
-- 👀 I’m interested in CS & Weigth Training
+- 👀 I’m interested in CS & Weight Training
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=llordly&show_icons=true&theme=vue&show_icons=true)
 
