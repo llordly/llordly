@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/zxibum/" target="_blank"><img src="https://img.shields.io/badge/insta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
 <!---
 llordly/llordly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
